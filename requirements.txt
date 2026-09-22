@@ -1,0 +1,4 @@
+# Runtime dependencies, bundled in Windows release. No API key is needed for phone TTS.
+edge-tts==7.2.8
+soundfile==0.14.0
+pycryptodome==3.23.0
